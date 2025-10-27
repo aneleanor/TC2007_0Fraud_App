@@ -24,6 +24,7 @@ TC2007_0Fraud_App tiene como objetivo ayudar a personas a identificar páginas d
 
 ```bash
 git clone https://github.com/aneleanor/TC2007_0Fraud_App.git
+```
 
 2. Abre el proyecto
 open 0fraudApp.xcodeproj
